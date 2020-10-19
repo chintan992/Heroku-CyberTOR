@@ -6,7 +6,7 @@ function Navbar() {
     <div className="nav">
       <div className="content">
         <div className="nav-logo">
-          <h1 className="h2 m-0">CyberTOR-Beta</h1>
+          <h1 className="h2 m-0">REd Dragon </h1>
         </div>
         <div className="nav-links">
           <NightModeToggle />
