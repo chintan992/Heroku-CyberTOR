@@ -74,6 +74,21 @@ server.use("/api/v1/details", details);
 server.get("/403error", (req, res) => {	
 	res.send(`	
 <html lang="en"><head>	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V2STN0P4YL"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'G-V2STN0P4YL');
+
+</script>
 <meta charset="UTF-8">	
 <link rel="apple-touch-icon" type="image/png" href="https://static.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png">	
 <meta name="apple-mobile-web-app-title" content="CodePen">	
