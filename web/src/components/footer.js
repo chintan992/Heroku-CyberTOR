@@ -8,7 +8,11 @@ function footer() {
           <h1 className="h4 m-0">Copyright @ 2020. <a className="alpha" href="https://github.com/chintan992/Heroku-CyberTOR">REd Dragon</a></h1>
         </div>
         <div className="nav-links" style={{flexDirection: "row"}}>
-          <a className="btn primary" href="https://www.facebook.com/chintan992" style={{color: "#f7fafc"}}>
+    <a className="btn primary" href="https://dexter.chintanr21.workers.dev" style={{color: "#f7fafc"}}>
+    <span className="bnt-icon">
+      </span> Index Link
+    </a>      
+    <a className="btn primary" href="https://www.facebook.com/chintan992" style={{color: "#f7fafc"}}>
     <span className="bnt-icon">
         <ion-icon name="logo-facebook" />
       </span> Facebook
