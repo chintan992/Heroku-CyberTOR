@@ -8,9 +8,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shakilofficial0/Heroku-CyberTOR)
 
-> Username: alpha
+> Username: red
 
-> Password: alpha 
+> Password: dragon 
 
 Make sure There is no (space) at the start of User/Pass.
 
